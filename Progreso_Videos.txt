@@ -1,0 +1,9 @@
+-- En este archivo se va a ir anotando en que clase de quedaste del curso de udemy de Fernando Herrera --
+Nota: Este curso se va a ir tomando desde la cuenta con los muchachos o desde la cuenta de Neoris, por eso se va a ir guardando
+el progreso.
+
+
+
+Seccion 1: Inicio del curso --> Completa
+
+Seccion 2: Git - Fundamentos --> 
